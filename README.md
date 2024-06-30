@@ -2,19 +2,19 @@
 * 1. Graphs :
      A graph is like a map that shows how things are connected. It has points (called vertices or nodes) and lines (called edges) that link these points. Each point can stand for something, like a person, a place, or an idea.
 
-* Parts of a Graph:
+* 2. Parts of a Graph:
   
 Vertices (Nodes): These are the points on the graph. Each one represents something specific.
 Edges: These are the lines connecting the vertices. They show relationships or connections between the points.
 
-* Basic Things You Can Do with Graphs:
+* 3. Basic Things You Can Do with Graphs:
 
 ** Adding: You can add new points or new connections between points.
 ** Removing: You can take away points or connections you no longer need.
 ** Finding: You can look for specific points or connections on the graph.
 ** Exploring: You can travel through the graph to see all the points and connections it has.
   
-* Where Graphs Are Used:
+* 4. Where Graphs Are Used:
 
 Graphs are used in many everyday situations:
 
