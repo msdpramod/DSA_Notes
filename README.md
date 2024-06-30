@@ -9,13 +9,14 @@ Edges: These are the lines connecting the vertices. They show relationships or c
 
 * Basic Things You Can Do with Graphs:
 
-Adding: You can add new points or new connections between points.
-Removing: You can take away points or connections you no longer need.
-Finding: You can look for specific points or connections on the graph.
-Exploring: You can travel through the graph to see all the points and connections it has.
-Where Graphs Are Used:
+  ** Adding: You can add new points or new connections between points.
+** Removing: You can take away points or connections you no longer need.
+** Finding: You can look for specific points or connections on the graph.
+** Exploring: You can travel through the graph to see all the points and connections it has.
+  
+* Where Graphs Are Used:
 
-* Graphs are used in many everyday situations:
+Graphs are used in many everyday situations:
 
 Social Networks: They show friendships or followers on platforms like Facebook.
 Maps: They show roads or paths between cities.
